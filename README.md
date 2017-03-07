@@ -1,0 +1,2 @@
+# PysinistroScripts
+Camera control scripts
